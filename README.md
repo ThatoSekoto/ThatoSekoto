@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Thato Sekoto
 
 🎓 **DIT Student** at Belgium Campus, iTversity 
-  Passionate about things related to technology and problem-solving
+  - Passionate about things related to technology and problem-solving
 
 ### 🔧 Skills
 - Programming: Python, Java, C++
