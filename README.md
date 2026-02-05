@@ -1,17 +1,11 @@
 ## Hi there 👋
 # 👋 Hi, I’m Thato Sekoto
 
-🎓 **DIT Student** at Belgium Campus, iTversity  
-🌱 **Passionate about:** AI, IoT, and Sustainable Technology  
-💼 **Looking for:** Internship or graduate opportunities in software development  
-
----
+🎓 **DIT Student** at Belgium Campus, iTversity 
+  Passionate about things related to technology and problem-solving
 
 ### 🔧 Skills
-- Programming: Python, Java, C++  
-- Web Development: HTML, CSS, JavaScript  
-- AI & Machine Learning Basics  
-- IoT & Embedded Systems  
+- Programming: Python, Java, C++
 
 ### 📫 How to reach me
 - Email: sekotobokamoso@gmail.com 
