@@ -3,13 +3,6 @@
 
 🎓 **DIT Student** at Belgium Campus, iTversity 
   - Passionate about things related to technology and problem-solving
-
-### 🔧 Skills
-- Programming: Python, Java, C++
-
-### 📫 How to reach me
-- Email: sekotobokamoso@gmail.com 
-- LinkedIn: [linkedin.com/in/Thato Sekoto](#)  
   
 
 
