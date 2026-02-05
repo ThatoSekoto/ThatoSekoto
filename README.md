@@ -1,4 +1,24 @@
 ## Hi there 👋
+# 👋 Hi, I’m Thato Sekoto
+
+🎓 **DIT Student** at Belgium Campus, iTversity  
+🌱 **Passionate about:** AI, IoT, and Sustainable Technology  
+💼 **Looking for:** Internship or graduate opportunities in software development  
+
+---
+
+### 🔧 Skills
+- Programming: Python, Java, C++  
+- Web Development: HTML, CSS, JavaScript  
+- AI & Machine Learning Basics  
+- IoT & Embedded Systems  
+
+### 📫 How to reach me
+- Email: sekotobokamoso@gmail.com 
+- LinkedIn: [linkedin.com/in/Thato Sekoto](#)  
+  
+
+
 
 <!--
 **ThatoSekoto/ThatoSekoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
